@@ -1,7 +1,7 @@
 //Everett Yee
 //queue interface for implementation of queue class
 
-
+//
 #ifndef Q_H
 #define Q_H
 
